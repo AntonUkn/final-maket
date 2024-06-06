@@ -20,35 +20,35 @@
   .btn:hover {
     background-color: deepskyblue; }
   .btn--icon-find {
-    background-image: url(/img/icon-find.svg);
+    background-image: url(./static/icon-find.svg);
     background-position: center;
     background-repeat: no-repeat; }
   .btn--icon-burger {
-    background-image: url(/img/icon-BURGER.svg);
+    background-image: url(./static/icon-BURGER.svg);
     background-position: center;
     background-repeat: no-repeat; }
   .btn--icon-check {
-    background-image: url(/img/icon-check.svg);
+    background-image: url(./static/icon-check.svg);
     background-position: center;
     background-repeat: no-repeat; }
   .btn--icon-search {
-    background-image: url(/img/icon-search.svg);
+    background-image: url(./static/icon-search.svg);
     background-position: center;
     background-repeat: no-repeat; }
   .btn--icon-phone {
-    background-image: url(/img/icon-phone.svg);
+    background-image: url(./static/icon-phone.svg);
     background-position: center;
     background-repeat: no-repeat; }
   .btn--icon-chat {
-    background-image: url(/img/icon-chat.svg);
+    background-image: url(./static/icon-chat.svg);
     background-position: center;
     background-repeat: no-repeat; }
   .btn--icon-profile {
-    background-image: url(/img/icon-profile.svg);
+    background-image: url(./static/icon-profile.svg);
     background-position: center;
     background-repeat: no-repeat; }
   .btn--icon-hide {
-    background-image: url(/img/icon-hide.svg);
+    background-image: url(./static/icon-hide.svg);
     background-position: center;
     background-repeat: no-repeat; }
 
